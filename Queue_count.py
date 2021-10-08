@@ -1,11 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Thu Oct  7 11:48:03 2021
-
-@author: ghosh
-"""
-
-# -*- coding: utf-8 -*-
 
 """
 Created on Sun Sep 15 18:39:54 2019
