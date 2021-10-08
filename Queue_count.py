@@ -34,13 +34,6 @@ df['Merchant5'] = [x.replace(',', '-') for x in df['Merchant5']]
 
 
 #df['Merchant1'] = df['Merchant1'].astype(float)
-  
-
-env = ""
-e2 = ""  
-e3 = ""
-e4 = ""
-e5 = ""
 
 def main_logic():
     
